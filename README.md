@@ -1,2 +1,1 @@
-# MyCPP
-Cpp Bank Application
+Cpp Banking Application
